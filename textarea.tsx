@@ -1,0 +1,1 @@
+export function Textarea(props: any) { return <textarea className='border p-2 w-full' {...props} />; }
